@@ -3,7 +3,7 @@ Contributors: ken107
 Donate link: https://www.lsdsoftware.com/
 Tags: tts, text-to-speech, widget, read-aloud, site-narrator, audio, voice, text-to-audio, speech, speechify
 Requires at least: 3.0
-Tested up to: 6.4
+Tested up to: 6.6
 Stable tag: trunk
 Requires PHP: 5.2.4
 License: GPLv2
